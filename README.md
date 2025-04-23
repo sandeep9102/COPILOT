@@ -1,4 +1,4 @@
-<pre> ```# Steps for execution:
+<pre>```# Steps for execution:
 1.)Create a .env file in rag-backend folder and add the GEMINI API Key.
 2.)After adding the Gemini API Key and add MoNGODB URL(if needed for the database storage).
 3.)Go to the rag-backend folder and open the rag2.py file.
